@@ -1,0 +1,11 @@
+<div class="row no-gutters">
+    <div class="col-sm">
+        <img class="cover-image" [src]="assetsPath + book.cover_image">
+    </div>
+    <div class="col-sm">
+        <p class="title">{{book.title}}</p>
+        <small class="text-muted">by {{book.author.name}}</small>
+        <p><a class="body-link" href="#" (click)="onUpdateProgress(book.title)">Update Progress</a></p>
+    </div>
+</div>
+<br>

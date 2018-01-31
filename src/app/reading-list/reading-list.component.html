@@ -1,0 +1,6 @@
+<h5>Currently Reading</h5>
+
+<sr-book-cards *ngFor="let book of myBooks;" [book]="book" (update)="handleUpdate($event)" (viewAll)="handleViewAll($event)" (addBook)="handleAddBook($event)" (generalUpdate)="handleGeneralUpdate($event)">
+</sr-book-cards>
+
+<sr-reading-list-actions (viewAll)="handleViewAll($event);" (addBook)="handleAddBook($event);" (generalUpdate)="handleGeneralUpdate($event);"></sr-reading-list-actions>

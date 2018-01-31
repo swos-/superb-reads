@@ -1,0 +1,564 @@
+{
+    "books": [{
+            "id": 1,
+            "title": "Artemis",
+            "author": {
+                "id": 1,
+                "name": "Andy Weir"
+            },
+            "description": "Jazz Bashara is a criminal.\rWell, sort of. Life on Artemis, the first and only city on the moon, is tough if you're not a rich tourist or an eccentric billionaire. So smuggling in the occasional harmless bit of contraband barely counts, right? Not when you've got debts to pay and your job as a porter barely covers the rent.\rEverything changes when Jazz sees the chance to commit the perfect crime, with a reward too lucrative to turn down. But pulling off the impossible is just the start of her problems, as she learns that she's stepped square into a conspiracy for control of Artemis itself—and that now, her only chance at survival lies in a gambit even riskier than the first.",
+            "average_rating": 3.71,
+            "num_ratings": 43545,
+            "num_reviews": 7447,
+            "cover_image": "artemis.jpg",
+            "genres": [{
+                    "id": "fiction",
+                    "name": "Fiction"
+                },
+                {
+                    "id": "science-fiction",
+                    "name": "Science Fiction"
+                }
+            ],
+            "format": "Hardcover",
+            "pages": 305
+        },
+        {
+            "id": 2,
+            "title": "The Martian",
+            "author": {
+                "id": 1,
+                "name": "Andy Weir"
+            },
+            "description": "Six days ago, astronaut Mark Watney became one of the first people to walk on Mars.\rNow, he’s sure he’ll be the first person to die there.\rAfter a dust storm nearly kills him and forces his crew to evacuate while thinking him dead, Mark finds himself stranded and completely alone with no way to even signal Earth that he’s alive—and even if he could get word out, his supplies would be gone long before a rescue could arrive.\rChances are, though, he won’t have time to starve to death. The damaged machinery, unforgiving environment, or plain-old “human error” are much more likely to kill him first.\rBut Mark isn’t ready to give up yet. Drawing on his ingenuity, his engineering skills—and a relentless, dogged refusal to quit—he steadfastly confronts one seemingly insurmountable obstacle after the next. Will his resourcefulness be enough to overcome the impossible odds against him?",
+            "average_rating": 4.4,
+            "num_ratings": 515739,
+            "num_reviews": 63374,
+            "cover_image": "the_martian.jpg",
+            "genres": [{
+                    "id": "fiction",
+                    "name": "Fiction"
+                },
+                {
+                    "id": "science-fiction",
+                    "name": "Science Fiction"
+                }
+            ],
+            "format": "Hardcover",
+            "pages": 369
+        },
+        {
+            "id": 3,
+            "title": "Jane Eyre",
+            "author": {
+                "id": 2,
+                "name": "Charlotte Bronte"
+            },
+            "description": "Orphaned as a child, Jane has felt an outcast her whole young life. Her courage is tested once again when she arrives at Thornfield Hall, where she has been hired by the brooding, proud Edward Rochester to care for his ward Adèle. Jane finds herself drawn to his troubled yet kind spirit. She falls in love. Hard.\rBut there is a terrifying secret inside the gloomy, forbidding Thornfield Hall. Is Rochester hiding from Jane? Will Jane be left heartbroken and exiled once again?",
+            "average_rating": 4.1,
+            "num_ratings": 1310052,
+            "num_reviews": 32306,
+            "cover_image": "jane_eyre.jpg",
+            "genres": [{
+                    "id": "literature",
+                    "name": "Literature"
+                },
+                {
+                    "id": "gothic",
+                    "name": "Gothic"
+                },
+                {
+                    "id": "historical",
+                    "name": "Historical"
+                },
+                {
+                    "id": "nineteenth-century-literature",
+                    "name": "19th Century Literature"
+                },
+                {
+                    "id": "novels",
+                    "name": "Novels"
+                }
+            ],
+            "format": "Paperback",
+            "pages": 507
+        },
+        {
+            "id": 4,
+            "title": "The Hunchback of Notre-Dame",
+            "author": {
+                "id": 3,
+                "name": "Victor Hugo"
+            },
+            "description": "This extraordinary historical novel, set in Medieval Paris under the twin towers of its greatest structure and supreme symbol, the cathedral of Notre-Dame, is the haunting drama of Quasimodo, the hunchback; Esmeralda, the gypsy dancer; and Claude Frollo, the priest tortured by the specter of his own damnation. Shaped by a profound sense of tragic irony, it is a work that gives full play to Victor Hugo's brilliant historical imagination and his remarkable powers of description.",
+            "average_rating": 3.98,
+            "num_ratings": 140288,
+            "num_reviews": 3439,
+            "cover_image": "hunchback.jpg",
+            "genres": [{
+                    "id": "classics",
+                    "name": "Classics"
+                },
+                {
+                    "id": "fiction",
+                    "name": "Fiction"
+                },
+                {
+                    "id": "historical-fiction",
+                    "name": "Historical Fiction"
+                },
+                {
+                    "id": "literature",
+                    "name": "Literature"
+                }
+            ],
+            "format": "Paperback",
+            "pages": 510
+        },
+        {
+            "id": 5,
+            "title": "American Gods",
+            "author": {
+                "id": 4,
+                "name": "Neil Gaiman"
+            },
+            "description": "This edition also includes exclusive extra material and The Monarch of the Glen, an American Gods novella.\rDays before his release from prison, Shadow’s wife, Laura, dies in a mysterious car crash. Numbly, he makes his way back home. On the plane, he encounters the enigmatic Mr Wednesday, who claims to be a refugee from a distant war, a former god and the king of America.\rTogether they embark on a profoundly strange journey across the heart of the USA, whilst all around them a storm of preternatural and epic proportions threatens to break.\rScary, gripping and deeply unsettling, American Gods takes a long, hard look into the soul of America. You’ll be surprised by what – and who – it finds there...",
+            "average_rating": 4.11,
+            "num_ratings": 564006,
+            "num_reviews": 29943,
+            "cover_image": "american_gods.jpg",
+            "genres": [{
+                    "id": "fantasy",
+                    "name": "Fantasy"
+                },
+                {
+                    "id": "fiction",
+                    "name": "Fiction"
+                },
+                {
+                    "id": "urban-fantasy",
+                    "name": "Urban Fantasy"
+                },
+                {
+                    "id": "science-fiction",
+                    "name": "Science Fiction"
+                }
+            ],
+            "format": "Kindle Edition",
+            "pages": 635
+        },
+        {
+            "id": 6,
+            "title": "Anansi Boys",
+            "author": {
+                "id": 4,
+                "name": "Neil Gaiman"
+            },
+            "description": "Fat Charlie Nancy's normal life ended the moment his father dropped dead on a Florida karaoke stage. Charlie didn't know his dad was a god. And he never knew he had a brother.\rNow brother Spider's on his doorstep -- about to make Fat Charlie's life more interesting... and a lot more dangerous.",
+            "average_rating": 4.01,
+            "num_ratings": 159856,
+            "num_reviews": 8167,
+            "cover_image": "anansi_boys.jpg",
+            "genres": [{
+                    "id": "fantasy",
+                    "name": "Fantasy"
+                },
+                {
+                    "id": "fiction",
+                    "name": "Fiction"
+                },
+                {
+                    "id": "urban-fantasy",
+                    "name": "Urban Fantasy"
+                },
+                {
+                    "id": "mythology",
+                    "name": "Mythology"
+                }
+            ],
+            "format": "Mass Market Paperback",
+            "pages": 384
+        },
+        {
+            "id": 7,
+            "title": "Stranger in a Strange Land",
+            "author": {
+                "id": 5,
+                "name": "Robert Heinlein"
+            },
+            "description": "Valentine Michael Smith is a human being raised on Mars, newly returned to Earth. Among his people for the first time, he struggles to understand the social mores and prejudices of human nature that are so alien to him, while teaching them his own fundamental beliefs in grokking, watersharing, and love.",
+            "average_rating": 3.91,
+            "num_ratings": 236572,
+            "num_reviews": 6516,
+            "cover_image": "stranger_in_a_strange_land.jpg",
+            "genres": [{
+                    "id": "science-fiction",
+                    "name": "Science Fiction"
+                },
+                {
+                    "id": "fiction",
+                    "name": "Fiction"
+                },
+                {
+                    "id": "classics",
+                    "name": "Classics"
+                },
+                {
+                    "id": "science-fiction-fantasy",
+                    "name": "Science Fiction Fantasy"
+                }
+            ],
+            "format": "Paperback",
+            "pages": 528
+        },
+        {
+            "id": 8,
+            "title": "Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers",
+            "author": {
+                "id": 6,
+                "name": "Timothy Ferriss"
+            },
+            "description": "The latest groundbreaking tome from Tim Ferriss, the #1 New York Times best-selling author of The 4-Hour Workweek.",
+            "average_rating": 4.25,
+            "num_ratings": 11140,
+            "num_reviews": 848,
+            "cover_image": "tools_of_titans.jpg",
+            "genres": [{
+                    "id": "business",
+                    "name": "Business"
+                },
+                {
+                    "id": "non-fiction",
+                    "name": "Nonfiction"
+                },
+                {
+                    "id": "personal-development",
+                    "name": "Personal Development"
+                },
+                {
+                    "id": "productivity",
+                    "name": "Productivity"
+                }
+            ],
+            "format": "Kindle Edition",
+            "pages": 707
+        },
+        {
+            "id": 9,
+            "title": "The 4-Hour Body",
+            "author": {
+                "id": 6,
+                "name": "Timothy Ferriss"
+            },
+            "description": "Thinner, bigger, faster, stronger... which 150 pages will you read?",
+            "average_rating": 3.77,
+            "num_ratings": 22247,
+            "num_reviews": 1424,
+            "cover_image": "four_hour_body.jpg",
+            "genres": [{
+                    "id": "health",
+                    "name": "Health"
+                },
+                {
+                    "id": "non-fiction",
+                    "name": "Nonfiction"
+                },
+                {
+                    "id": "reference",
+                    "name": "Reference"
+                },
+                {
+                    "id": "fitness",
+                    "name": "Fitness"
+                }
+            ],
+            "format": "Hardcover",
+            "pages": 571
+        },
+        {
+            "id": 10,
+            "title": "Name of the Wind",
+            "author": {
+                "id": 7,
+                "name": "Patrick Rothfuss"
+            },
+            "description": "Told in Kvothe's own voice, this is the tale of the magically gifted young man who grows to be the most notorious wizard his world has ever seen.\rThe intimate narrative of his childhood in a troupe of traveling players, his years spent as a near-feral orphan in a crime-ridden city, his daringly brazen yet successful bid to enter a legendary school of magic, and his life as a fugitive after the murder of a king form a gripping coming-of-age story unrivaled in recent literature.\rA high-action story written with a poet's hand, The Name of the Wind is a masterpiece that will transport readers into the body and mind of a wizard.",
+            "average_rating": 4.55,
+            "num_ratings": 488444,
+            "num_reviews": 30544,
+            "cover_image": "name_of_the_wind.jpg",
+            "genres": [{
+                    "id": "fantasy",
+                    "name": "Fantasy"
+                },
+                {
+                    "id": "fiction",
+                    "name": "Fiction"
+                },
+                {
+                    "id": "epic-fantasy",
+                    "name": "Epic Fantasy"
+                },
+                {
+                    "id": "adventure",
+                    "name": "Adventure"
+                }
+            ],
+            "format": "Hardcover",
+            "pages": 662
+        },
+        {
+            "id": 11,
+            "title": "A History of Philosophy, Vol. 1: Greece and Rome, From the Pre-Socratics to Plotinus",
+            "author": {
+                "id": 8,
+                "name": "Frederick Charles Copleston"
+            },
+            "description": "Conceived originally as a serious presentation of the development of philosophy for Catholic seminary students, Frederick Copleston's nine-volume A History Of Philosophy has journeyed far beyond the modest purpose of its author to universal acclaim as the best history of philosophy in English.\rCopleston, an Oxford Jesuit of immense erudition who once tangled with A. J. Ayer in a fabled debate about the existence of God and the possibility of metaphysics, knew that seminary students were fed a woefully inadequate diet of theses and proofs, and that their familiarity with most of history's great thinkers was reduced to simplistic caricatures. Copleston set out to redress the wrong by writing a complete history of Western philosophy, one crackling with incident and intellectual excitement -- and one that gives full place to each thinker, presenting his thought in a beautifully rounded manner and showing his links to those who went before and to those who came after him.",
+            "average_rating": 4.06,
+            "num_ratings": 1320,
+            "num_reviews": 57,
+            "cover_image": "history_of_philosophy_vol_1.jpg",
+            "genres": [{
+                    "id": "history",
+                    "name": "History"
+                },
+                {
+                    "id": "nonfiction",
+                    "name": "Nonfiction"
+                },
+                {
+                    "id": "reference",
+                    "name": "Reference"
+                }
+            ],
+            "format": "Paperback",
+            "pages": 521
+        }
+    ],
+    "my-books": [{
+            "id": 1,
+            "cover_image": "artemis.jpg",
+            "title": "Artemis",
+            "author": {
+                "id": 1,
+                "name": "Andy Weir"
+            },
+            "tags": [{
+                    "id": "currently-reading",
+                    "name": "Currently Reading"
+                },
+                {
+                    "id": "fiction",
+                    "name": "Fiction"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "cover_image": "the_martian.jpg",
+            "title": "The Martian",
+            "author": {
+                "id": 1,
+                "name": "Andy Weir"
+            },
+            "tags": [{
+                    "id": "read",
+                    "name": "Read"
+                },
+                {
+                    "id": "fiction",
+                    "name": "Fiction"
+                },
+                {
+                    "id": "wants-to-read",
+                    "name": "Wants to Read"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "cover_image": "tools_of_titans.jpg",
+            "title": "Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers",
+            "author": {
+                "id": 6,
+                "name": "Timothy Ferriss"
+            },
+            "tags": [{
+                    "id": "currently-reading",
+                    "name": "Currently Reading"
+                },
+                {
+                    "id": "non-fiction",
+                    "name": "Nonfiction"
+                },
+                {
+                    "id": "personal-development",
+                    "name": "Personal Development"
+                }
+            ]
+        }
+    ],
+    "challenges": [{
+            "id": 1,
+            "year": 2017,
+            "completed": 24,
+            "total": 24,
+            "percentage": 100
+        },
+        {
+            "id": 2,
+            "year": 2018,
+            "completed": 2,
+            "total": 25,
+            "percentage": 8
+        }
+    ],
+    "updates": [{
+            "type": "wants-to-read",
+            "book": {
+                "id": 7,
+                "title": "Stranger in a Strange Land",
+                "description": "Valentine Michael Smith is a human being raised on Mars, newly returned to Earth. Among his people for the first time, he struggles to understand the social mores and prejudices of human nature that are so alien to him, while teaching them his own fundamental beliefs in grokking, watersharing, and love.",
+                "author": {
+                    "id": "5",
+                    "name": "Robert Heinlein"
+                }
+            },
+            "datetime": 1516986249,
+            "user": {
+                "id": 1,
+                "name": "Steve"
+            },
+            "likes": {
+                "total": 5,
+                "top": {
+                    "id": 2,
+                    "name": "Sharon"
+                }
+            }
+        },
+        {
+            "type": "wants-to-read",
+            "book": {
+                "id": 1,
+                "title": "Artemis",
+                "description": "Jazz Bashara is a criminal.\rWell, sort of. Life on Artemis, the first and only city on the moon, is tough if you're not a rich tourist or an eccentric billionaire. So smuggling in the occasional harmless bit of contraband barely counts, right? Not when you've got debts to pay and your job as a porter barely covers the rent.\rEverything changes when Jazz sees the chance to commit the perfect crime, with a reward too lucrative to turn down. But pulling off the impossible is just the start of her problems, as she learns that she's stepped square into a conspiracy for control of Artemis itself—and that now, her only chance at survival lies in a gambit even riskier than the first.",
+                "author": {
+                    "id": "1",
+                    "name": "Andy Weir"
+                }
+            },
+            "datetime": 1516467849,
+            "user": {
+                "id": 2,
+                "name": "Sharon"
+            },
+            "likes": {
+                "total": 10,
+                "top": {
+                    "id": 1,
+                    "name": "Steve"
+                }
+            }
+        },
+        {
+            "type": "now-friends-with",
+            "datetime": 1514912649,
+            "user": {
+                "id": 2,
+                "name": "Sharon"
+            },
+            "friends_with": {
+                "id": 3,
+                "name": "Kevin"
+            },
+            "likes": {
+                "total": 5,
+                "top": {
+                    "id": 4,
+                    "name": "John"
+                }
+            }
+        }
+    ],
+    "awards": [{
+        "id": 1,
+        "type": "choice-awards-2017",
+        "title": "Announcing the Best Books of 2017!",
+        "votes": 3887950
+    }],
+    "recommendations": [{
+        "id": 5,
+        "title": "American Gods",
+        "cover_image": "american_gods.jpg",
+        "rating": 4.11,
+        "author": {
+            "id": 4,
+            "name": "Neil Gaiman"
+        },
+        "reason": {
+            "id": 6,
+            "title": "Anansi Boys"
+        },
+        "description": "This edition also includes exclusive extra material and The Monarch of the Glen, an American Gods novella.\rDays before his release from prison, Shadow’s wife, Laura, dies in a mysterious car crash. Numbly, he makes his way back home. On the plane, he encounters the enigmatic Mr Wednesday, who claims to be a refugee from a distant war, a former god and the king of America.\rTogether they embark on a profoundly strange journey across the heart of the USA, whilst all around them a storm of preternatural and epic proportions threatens to break.\rScary, gripping and deeply unsettling, American Gods takes a long, hard look into the soul of America. You’ll be surprised by what – and who – it finds there..."
+    }],
+    "friends": [{
+            "id": 1,
+            "name": "Steve"
+        },
+        {
+            "id": 2,
+            "name": "Sharon"
+        },
+        {
+            "id": 3,
+            "name": "Kevin"
+        },
+        {
+            "id": 4,
+            "name": "John"
+        }
+    ],
+    "authors": [{
+            "id": 1,
+            "name": "Andy Weir",
+            "description": "ANDY WEIR built a career as a software engineer until the success of his first published novel, THE MARTIAN, allowed him to live out his dream of writing fulltime. He is a lifelong space nerd and a devoted hobbyist of subjects such as relativistic physics, orbital mechanics, and the history of manned spaceflight. He also mixes a mean cocktail. He lives in California. Andy’s next book, ARTEMIS, is available now."
+        },
+        {
+            "id": 2,
+            "name": "Charlotte Bronte",
+            "description": "Charlotte Bronte was a British novelist, the eldest out of the three famous Brontë sisters whose novels have become standards of English literature."
+        },
+        {
+            "id": 3,
+            "name": "Victor Hugo",
+            "description": "Victor Hugo, in full Victor-Marie Hugo (b. February 26, 1802, Besançon, France – d. May 22, 1885, Paris, France), poet, playwrighter, novelist, dramatist, essayist, visual artist, statesman, human rights campaigner, and perhaps the most influential exponent of the Romantic movement in France, who was the most important of the French Romantic writers."
+        },
+        {
+            "id": 4,
+            "name": "Neil Gaiman",
+            "description": "Neil Gaiman is an English author of short fiction, novels, comic books, graphic novels, audio theatre, and films."
+        },
+        {
+            "id": 5,
+            "name": "Robert Heinlein",
+            "description": "Robert Anson Heinlein was an American novelist and science fiction writer. Often called \"the dean of science fiction writers\", he is one of the most popular, influential, and controversial authors of \"hard science fiction\"."
+        },
+        {
+            "id": 6,
+            "name": "Timothy Ferriss",
+            "description": "Tim Ferriss is author of three #1 NYT/WSJ bestsellers: The 4-Hour Workweek, The 4-Hour Body, and The 4-Hour Chef. He is also a start-up advisor specializing in positioning, PR, and marketing (Uber, Evernote, etc.). When not damaging his body with abusive sports, he enjoys chocolate, bear claws, and Japanese animation."
+        },
+        {
+            "id": 7,
+            "name": "Patrick Rothfuss",
+            "description": "It all began when Pat Rothfuss was born to a marvelous set of parents. Throughout his formative years they encouraged him to do his best, gave him good advice, and were no doubt appropriately dismayed when he failed to live up to his full potential."
+        },
+        {
+            "id": 8,
+            "name": "Frederick Charles Copleston",
+            "description": "Frederick (Freddie) Charles Copleston was raised an Anglican and educated at Marlborough College from 1920 to 1925. Shortly after his eighteenth birthday he converted to Catholicism, and his father subsequently almost disowned him. After the initial shock, however, his father saw fit to help Copleston through his education and he attended St. John’s in Oxford in 1925, only managing a disappointing third in classical moderations. He redeemed himself somewhat with a good second at Greats in 1929."
+        }
+    ]
+}

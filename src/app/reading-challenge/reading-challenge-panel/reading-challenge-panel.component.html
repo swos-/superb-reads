@@ -1,0 +1,5 @@
+<h5 class="card-title">{{challenge.completed}} books completed</h5>
+<div class="progress">
+    <div class="progress-bar" role="progressbar" [ngStyle]="{'width.%': challenge.percentage}" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
+</div>
+<p class="card-text">{{challenge.completed}}/{{challenge.total}} ({{challenge.percentage}}%)</p>
